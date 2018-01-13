@@ -1,0 +1,8 @@
+#Para adicionar arquivos no git
+git add *
+
+#Informando o conteúdo do commit
+git commit -m "mensagem"
+
+#Subindo o código
+git push origin master
